@@ -1,0 +1,322 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+21 items
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> /Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Actors$.class
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> /Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Actors$MailSender$$anonfun$receive$2.class
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> /Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Actors$MailSender.class
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> /Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Actors$RouteActor$$anonfun$1.class
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> /Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Actors$RouteActor$$anonfun$2.class
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> /Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Actors$RouteActor$$anonfun$receive$1.class
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> /Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Actors$RouteActor.class
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> /Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Actors$SNSsender$$anonfun$receive$3.class
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> /Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Actors$SNSsender.class
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> /Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Actors.class
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> /Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Config$.class
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> /Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Config.class
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> /Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Messages$.class
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> /Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Messages$sendMail$.class
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> /Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Messages$sendMail.class
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> /Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Messages$sendSNS$.class
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> /Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Messages$sendSNS.class
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> /Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Messages.class
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> /Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/RemoteSystem$.class
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> /Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/RemoteSystem$delayedInit$body.class
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> /Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/RemoteSystem.class
+binary dependencies:
+12 items
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> /Users/damon/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.12.jar
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> /Users/damon/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> /Users/damon/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.12.jar
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> /Users/damon/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> /Users/damon/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> /Users/damon/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> /Users/damon/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.12.jar
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> /Users/damon/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> /Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> /Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> /Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+21 items
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> remote.Actors
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> remote.Actors$
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> remote.Actors$MailSender
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> remote.Actors$MailSender$$anonfun$receive$2
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> remote.Actors$RouteActor
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> remote.Actors$RouteActor$$anonfun$1
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> remote.Actors$RouteActor$$anonfun$2
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> remote.Actors$RouteActor$$anonfun$receive$1
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> remote.Actors$SNSsender
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> remote.Actors$SNSsender$$anonfun$receive$3
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> remote.Config
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> remote.Config$
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> remote.Messages
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> remote.Messages$
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> remote.Messages$sendMail
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> remote.Messages$sendMail$
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> remote.Messages$sendSNS
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> remote.Messages$sendSNS$
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> remote.RemoteSystem
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> remote.RemoteSystem$
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> remote.RemoteSystem$delayedInit$body
+used names:
+154 items
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> %
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> +
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> +:
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> +=
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> <init>
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> ==
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> A1
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> Actor
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> Actors
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> AnyRef
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> B1
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> Boolean
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> ClassTag
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> ExecutionContext
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> Function1
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> Implicits
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> IndexedSeq
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> MailSender
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> Messages
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> Nil
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> Predef
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> Props
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> Queue
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> RouteActor
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> SNSsender
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> String
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> StringContext
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> actor
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> actorOf
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> akka
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> apply
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> asInstanceOf
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> augmentString
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> canBuildFrom
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> collection
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> concurrent
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> content
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> context
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> dequeue
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> duration
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> enqueue
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> failedTasks
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> fallbackStringCanBuildFrom
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> forward
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> global
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> head
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> i
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> i_=
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> immutable
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> intWrapper
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> isInstanceOf
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> mailSenders
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> map
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> materializeClassTag
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> message
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> mutable
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> nonEmpty
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> package
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> println
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> reloadTask
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> remote
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> s
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> scala
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> schedule
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> scheduler
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> seconds
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> self
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> sendMail
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> sendSNS
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> snsSenders
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> system
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> title
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> to
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> toString
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> unary_!
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> unchecked
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> until
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> <init>
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> ActorSystem
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> AnyRef
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> Config
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> ConfigFactory
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> Int
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> Predef
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> String
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> StringContext
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> actor
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> akka
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> apply
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> augmentString
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> com
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> config
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> name
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> parseString
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> port
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> remote
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> remotingConfig
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> s
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> scala
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> stripMargin
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> typesafe
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> &&
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> <init>
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> ==
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> AbstractFunction2
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> AbstractFunction3
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> AnyRef
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> Messages
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> None
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> Predef
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> Product
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> ScalaRunTime
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> Serializable
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> String
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> _hashCode
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> _toString
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> asInstanceOf
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> content
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> eq
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> isInstanceOf
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> remote
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> runtime
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> scala
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> sendMail
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> sendSNS
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> title
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> to
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> toString
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> typedProductIterator
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> ||
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> !
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> <init>
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> Actors
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> App
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> ClassTag
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> Config
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> Props
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> RemoteSystem
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> RouteActor
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> actor
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> actorOf
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> actorRef2Scala
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> akka
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> apply
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> materializeClassTag
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> package
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> qual$1
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> remote
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> remoteSystem
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> route
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> scala
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> system
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> x$1
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> x$2
+product stamps:
+21 items
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Actors$.class -> lastModified(1450080904000)
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Actors$MailSender$$anonfun$receive$2.class -> lastModified(1450080905000)
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Actors$MailSender.class -> lastModified(1450080905000)
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Actors$RouteActor$$anonfun$1.class -> lastModified(1450080905000)
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Actors$RouteActor$$anonfun$2.class -> lastModified(1450080905000)
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Actors$RouteActor$$anonfun$receive$1.class -> lastModified(1450080905000)
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Actors$RouteActor.class -> lastModified(1450080905000)
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Actors$SNSsender$$anonfun$receive$3.class -> lastModified(1450080905000)
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Actors$SNSsender.class -> lastModified(1450080905000)
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Actors.class -> lastModified(1450080904000)
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Config$.class -> lastModified(1450080905000)
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Config.class -> lastModified(1450080905000)
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Messages$.class -> lastModified(1450080905000)
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Messages$sendMail$.class -> lastModified(1450080905000)
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Messages$sendMail.class -> lastModified(1450080905000)
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Messages$sendSNS$.class -> lastModified(1450080905000)
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Messages$sendSNS.class -> lastModified(1450080905000)
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/Messages.class -> lastModified(1450080905000)
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/RemoteSystem$.class -> lastModified(1450080905000)
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/RemoteSystem$delayedInit$body.class -> lastModified(1450080905000)
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/target/scala-2.11/classes/remote/RemoteSystem.class -> lastModified(1450080905000)
+source stamps:
+4 items
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> hash(e81cc698c4dc113ac329dce3f15b536183d40a3d)
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> hash(876e20ce26114b70ebdcf959f39dedca95d51a3b)
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> hash(5072bc521f63cc3250a445264ecf3f2ba9770a6f)
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> hash(0fc1566ffdf13379446141a56fd5654e1266a536)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1426248356000)
+/Users/damon/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.12.jar -> lastModified(1436421519000)
+/Users/damon/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar -> lastModified(1399042454000)
+/Users/damon/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> lastModified(1424912463000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/damon/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.12.jar -> akka.actor.ActorRef
+/Users/damon/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar -> com.typesafe.config.ConfigFactory
+/Users/damon/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> scala.App
+internal apis:
+4 items
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBNraDCAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwT6vMW3QABHNlbGZzcQB+AAt/F6jXdAAHY29udGV4dHVxAH4ACQAAAC1zcQB+AAvWJWzbdAAGbm90aWZ5c3EAfgALRpkTtHQAB1JlY2VpdmVzcQB+AAss6p9ddAAEd2FpdHNxAH4ACyr8F3l0AA0kYXNJbnN0YW5jZU9mc3EAfgALZn7W+3QABmVxdWFsc3NxAH4AC+/zlr10AApzbnNTZW5kZXJzc3EAfgALpnw2tHQADGFzSW5zdGFuY2VPZnNxAH4AC5DBIT10AAxzeW5jaHJvbml6ZWRzcQB+AAukYiCrdAAKUm91dGVBY3RvcnNxAH4ACyInmrV0AA0kaXNJbnN0YW5jZU9mc3EAfgALzP4oAnQAB3JlY2VpdmVzcQB+AAuWGReidAAKcHJlUmVzdGFydHNxAH4AC68I8Tt0AA1hcm91bmRSZWNlaXZlc3EAfgALhzi653QACk1haWxTZW5kZXJzcQB+AAs96fcbdAALcG9zdFJlc3RhcnRzcQB+AAuQ6yzAdAAIcG9zdFN0b3BzcQB+AAvX58NZdAABaXNxAH4AC6Wm4ed0AAlub3RpZnlBbGxzcQB+AAvkc9xRdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAvHmPivdAAMaXNJbnN0YW5jZU9mc3EAfgALa+GoonQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAvNKPQAdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAu8iQWSdAAJU05Tc2VuZGVyc3EAfgAL+QyQVHQABjxpbml0PnNxAH4AC1Xtmuh0AAhwcmVTdGFydHNxAH4AC6GLkUB0AAl1bmhhbmRsZWRzcQB+AAs7l7rOdAALZmFpbGVkVGFza3NzcQB+AAsbU1dmdAACPT1zcQB+AAurNlx4dAAFY2xvbmVzcQB+AAtswSB8dAAIc2VuZE1haWxzcQB+AAtzhR1HdAAGc2VuZGVyc3EAfgALQRUS+XQACHRvU3RyaW5nc3EAfgALT+cR7HQAAiE9c3EAfgALccCEtnQACGdldENsYXNzc3EAfgAL08/+/HQAB3NlbmRTTlNzcQB+AAsY9ORmdAACbmVzcQB+AAvqMb/ddAALbWFpbFNlbmRlcnNzcQB+AAvQoXS5dAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgAL2m3OmHQABkFjdG9yc3NxAH4AC2dadLl0AAJlcXNxAH4AC/jvP+x0AAIjI3NxAH4AC87vtVN0AApyZWxvYWRUYXNrc3EAfgALiVaeq3QACGZpbmFsaXplc3EAfgALL2EpaHQACGhhc2hDb2Rlc3EAfgALeMZft3QADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AdXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQADXJlbW90ZS5BY3RvcnN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCOeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCNAHBzcQB+AJJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AdUwACWluaGVyaXRlZHEAfgB1TAAHcGFyZW50c3EAfgB1eHEAfgCWc3EAfgCNAHBzcQB+AJJ1cQB+AHAAAAAAc3EAfgCNAHBzcQB+AJJ1cQB+AHAAAAAAc3EAfgCNAHBzcQB+AJJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJV0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+ALJ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ALNzcQB+AKZ0AANBbnlzcQB+AKpzcQB+AK11cQB+ALAAAAACc3EAfgCydAAFc2NhbGFxAH4AuXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQABnJlbW90ZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUZ+Omi11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABtL1VzZXJzL2RhbW9uL0RvY3VtZW50cy9Xb3JrU3BhY2UvT3Blbi1Tb3VyY2UvQWtrYVJlbW90ZUFjdG9yc0hlbGxvV29ybGQvSGVsbG9SZW1vdGUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOgcxpjE3BE6wync4/FbU2GD1Ao9
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBGCusQAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCQeFA10AAZub3RpZnlzcQB+AAyiVoUZdAAEd2FpdHNxAH4ADA9axwt0AA0kYXNJbnN0YW5jZU9mc3EAfgAMJ/XcRHQABmVxdWFsc3NxAH4ADOkYLHV0AAxhc0luc3RhbmNlT2ZzcQB+AAy+5x2+dAAMc3luY2hyb25pemVkc3EAfgAMq45tynQADSRpc0luc3RhbmNlT2ZzcQB+AAyPUWthdAAOcmVtb3RpbmdDb25maWdzcQB+AAw2HRmddAAJbm90aWZ5QWxsc3EAfgAMTqfbxnQADGlzSW5zdGFuY2VPZnNxAH4ADHfYsqJ0AAZDb25maWdzcQB+AAwFRs7cdAACPT1zcQB+AAxIS+00dAAFY2xvbmVzcQB+AAw1xl2DdAAIdG9TdHJpbmdzcQB+AAxRettOdAACIT1zcQB+AAyKpLI6dAAIZ2V0Q2xhc3NzcQB+AAxrx0/qdAACbmVzcQB+AAzXEiZOdAACZXFzcQB+AAzv2I2AdAACIyNzcQB+AAzHVIADdAAIZmluYWxpemVzcQB+AAwkJgc/dAAIaGFzaENvZGVzcQB+AAy2ey5qdAAMcmVtb3RlU3lzdGVtc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQADXJlbW90ZS5Db25maWd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBceHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBbAHBzcQB+AGBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBkc3EAfgBbAHBzcQB+AGB1cQB+AD4AAAAAc3EAfgBbAHBzcQB+AGB1cQB+AD4AAAAAc3EAfgBbAHBzcQB+AGB1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGN0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIB0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIFzcQB+AHR0AANBbnlzcQB+AHhzcQB+AHt1cQB+AH4AAAACc3EAfgCAdAAFc2NhbGFxAH4Ah3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABnJlbW90ZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUZ+Omi11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABtL1VzZXJzL2RhbW9uL0RvY3VtZW50cy9Xb3JrU3BhY2UvT3Blbi1Tb3VyY2UvQWtrYVJlbW90ZUFjdG9yc0hlbGxvV29ybGQvSGVsbG9SZW1vdGUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIduIM4mEUtw69z5WfOd7cqV1Ro7
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDxiIsxAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAKHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cIe1PHR0AAZub3RpZnlzcQB+AAxXDD3zdAAHdW5hcHBseXNxAH4ADHxeT0l0AAdjdXJyaWVkc3EAfgAMoktQH3QABHdhaXRzcQB+AAye4adFdAAOY29weSRkZWZhdWx0JDJzcQB+AAwanNUOdAANJGFzSW5zdGFuY2VPZnNxAH4ADIvJxBd0AAxwcm9kdWN0QXJpdHlzcQB+AAzmQEDZdAAGZXF1YWxzc3EAfgAMKa5zl3QADGFzSW5zdGFuY2VPZnNxAH4ADKDMZfF0AAxzeW5jaHJvbml6ZWRzcQB+AAy8aH+PdAANJGlzSW5zdGFuY2VPZnNxAH4ADEmcVXh0AAZ0dXBsZWRzcQB+AAyYCVmNdAAIY2FuRXF1YWxzcQB+AAwKFHe8dAANcHJvZHVjdFByZWZpeHNxAH4ADEsIvLN0AAlub3RpZnlBbGxzcQB+AAxHzNlkdAALcmVhZFJlc29sdmVzcQB+AAyWy2bGdAACdG9zcQB+AAy/ttB8dAAMaXNJbnN0YW5jZU9mc3EAfgAMy6QfonQABjxpbml0PnNxAH4ADDVQg9h0AAhNZXNzYWdlc3NxAH4ADAs79jh0AAVhcHBseXNxAH4ADAa7jdV0AAI9PXNxAH4ADE3MzLt0AAVjbG9uZXNxAH4ADJFlI0V0AAdjb250ZW50c3EAfgAM8n/xJHQACHNlbmRNYWlsc3EAfgAMq5M+rHQADmNvcHkkZGVmYXVsdCQzc3EAfgAMgFUoa3QABGNvcHlzcQB+AAwKOxvOdAAIdG9TdHJpbmdzcQB+AAyduQtEdAACIT1zcQB+AAyrohJPdAAIZ2V0Q2xhc3NzcQB+AAw/dK0bdAAFdGl0bGVzcQB+AAxxhT+7dAAOY29weSRkZWZhdWx0JDFzcQB+AAwlXOh/dAAHc2VuZFNOU3NxAH4ADNkER1d0AAJuZXNxAH4ADH88C8R0AAJlcXNxAH4ADBv+Ald0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAxumCPidAACIyNzcQB+AAzoGL8FdAAIZmluYWxpemVzcQB+AAwiuRwzdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAztUa1qdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBneHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAPcmVtb3RlLk1lc3NhZ2VzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AgHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AfwBwc3EAfgCEc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGdMAAlpbmhlcml0ZWRxAH4AZ0wAB3BhcmVudHNxAH4AZ3hxAH4AiHNxAH4AfwBwc3EAfgCEdXEAfgBiAAAAAHNxAH4AfwBwc3EAfgCEdXEAfgBiAAAAAHNxAH4AfwBwc3EAfgCEdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCHdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCHc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCkdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgClc3EAfgCYdAADQW55c3EAfgCcc3EAfgCfdXEAfgCiAAAAAnNxAH4ApHQABXNjYWxhcQB+AKt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZyZW1vdGVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVGfjpotdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAbS9Vc2Vycy9kYW1vbi9Eb2N1bWVudHMvV29ya1NwYWNlL09wZW4tU291cmNlL0Fra2FSZW1vdGVBY3RvcnNIZWxsb1dvcmxkL0hlbGxvUmVtb3RlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRQcrxSH2PMMlCkRSZOzz8rqXcKbw==
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHARN624AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cA2Gr9x0AAZub3RpZnlzcQB+AAzb2BONdAAEd2FpdHNxAH4ADOSHOFl0AA0kYXNJbnN0YW5jZU9mc3EAfgAMPGCr03QABnN5c3RlbXNxAH4ADOtp2Kp0AAZlcXVhbHNzcQB+AAxvumlPdAAMYXNJbnN0YW5jZU9mc3EAfgAMXRk3q3QADmV4ZWN1dGlvblN0YXJ0c3EAfgAMGoKA73QADHN5bmNocm9uaXplZHNxAH4ADHJzK5J0AA0kaXNJbnN0YW5jZU9mc3EAfgAMzE5wQnQABG1haW5zcQB+AAy0bJFRdAAJbm90aWZ5QWxsc3EAfgAMLtNceHQADGlzSW5zdGFuY2VPZnNxAH4ADC9XF5p0AAI9PXNxAH4ADDJkgBx0AAVjbG9uZXNxAH4ADNPgq2N0AAh0b1N0cmluZ3NxAH4ADAaD+5V0AARhcmdzc3EAfgAM542up3QAAiE9c3EAfgAMJ+YZcHQABXJvdXRlc3EAfgAMImcDdXQACGdldENsYXNzc3EAfgAMR3tzUXQADFJlbW90ZVN5c3RlbXNxAH4ADJb3r7B0AAJuZXNxAH4ADKFLsR90AAJlcXNxAH4ADACX+rx0AAtkZWxheWVkSW5pdHNxAH4ADLonChB0AAIjI3NxAH4ADFRa/OB0AAhmaW5hbGl6ZXNxAH4ADMKDakB0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABNyZW1vdGUuUmVtb3RlU3lzdGVtdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAEHNjYWxhLmRlcHJlY2F0ZWR0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AZnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZQBwc3EAfgBqc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEtMAAlpbmhlcml0ZWRxAH4AS0wAB3BhcmVudHNxAH4AS3hxAH4AbnNxAH4AZQBwc3EAfgBqdXEAfgBGAAAAAHNxAH4AZQBwc3EAfgBqdXEAfgBGAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBMcQB+AFV1cQB+AFYAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgB7eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AG10ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AbXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AlXNxAH4AWABxAH4AIXVxAH4AWwAAAABzcQB+AIh0AARVbml0cQB+AI51cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB7eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBedAAFUGxhaW5xAH4ALXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AiVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AbXNxAH4AiHQABUFycmF5cQB+AI51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AiHQABlN0cmluZ3NxAH4AjHNxAH4Aj3VxAH4AkgAAAANzcQB+AJR0AARqYXZhc3EAfgCUdAAEbGFuZ3EAfgCZc3EAfgBlAHBzcQB+AGp1cQB+ALAAAAAEc3EAfgCIdAADQXBwcQB+AI5zcQB+AIh0AAtEZWxheWVkSW5pdHEAfgCOc3EAfgCIdAAGT2JqZWN0cQB+ALRzcQB+AIh0AANBbnlxAH4AjnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABnJlbW90ZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUZ+Omi11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABtL1VzZXJzL2RhbW9uL0RvY3VtZW50cy9Xb3JrU3BhY2UvT3Blbi1Tb3VyY2UvQWtrYVJlbW90ZUFjdG9yc0hlbGxvV29ybGQvSGVsbG9SZW1vdGUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFA/BVm/98TN5RGFBpW/VZU4SZqU2
+external apis:
+0 items
+source infos:
+4 items
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Actors.scala -> 
+AAAAAAAAAAA=
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Config.scala -> 
+AAAAAAAAAAA=
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/Messages.scala -> 
+AAAAAAAAAAA=
+/Users/damon/Documents/WorkSpace/Open-Source/AkkaRemoteActorsHelloWorld/HelloRemote/src/main/scala/remote/RemoteSystem.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUZmMJcd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAbS9Vc2Vycy9kYW1vbi9Eb2N1bWVudHMvV29ya1NwYWNlL09wZW4tU291cmNlL0Fra2FSZW1vdGVBY3RvcnNIZWxsb1dvcmxkL0hlbGxvUmVtb3RlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUZ+Omi11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAbS9Vc2Vycy9kYW1vbi9Eb2N1bWVudHMvV29ya1NwYWNlL09wZW4tU291cmNlL0Fra2FSZW1vdGVBY3RvcnNIZWxsb1dvcmxkL0hlbGxvUmVtb3RlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
