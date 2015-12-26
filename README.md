@@ -18,8 +18,6 @@ Running the Code
 
 test cherry-pick
 =======
-
-=======
 ----------------
 
 Follow these steps to run the code:
